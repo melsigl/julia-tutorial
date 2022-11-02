@@ -1,0 +1,12 @@
+#+title: Introduction to Julia
+#+subtitle: A Tutorial for Our Machine Learning Community
+
+In upcoming Machine Learning Community session at [[https://prodato.de/][PRODATO]] we take a quick look at the programming language [[https://julialang.org/][Julia]].
+This repository contains JupyterNotebooks that shall aid in taking the first steps with Julia.
+
+* Disclaimer
+These JupyterNotebooks are inspired by and sometimes even copied from other great sources.
+For instance, the JupyterNotebook =2-Julia is fast.ipynb= is directly taken from [[https://github.com/JuliaAcademy/JuliaTutorials][JuliaAcademy's JuliaTutorials]].
+All other notebooks are inspired by and some examples taken directly from
+Julia's getting started guide, or MLJ's getting started guide.
+Especially the introduciton notebook is inspired by [[https://github.com/jolin-io/fall-in-love-with-julia][jolin.io's repository "fall-in-love-with-julia"]], [[https://github.com/JuliaAcademy/JuliaTutorials][JuliaAcademy's JuliaTutorials]], and [[https://www.matecdev.com/posts/julia-tutorial-science-engineering.html][Martin Maas' Tutorial "The Julia Programming Language: an Effective Tutorial"]].
